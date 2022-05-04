@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+
+*{
+    margin-left: 13px;
+    margin-right: 13px;
+}
+h1{
+    text-align: center;
+    
+    font-family: 'Times New Roman';
+}
+.fisli
+{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+    margin: 0;
+    padding: 0;
+    float: right;
+    display: block;
+    padding: 14px 16px;
+    margin: 0 12px;
+    }
+.fisli li{
+    display:inline;
+}
+
+    /* li a:hover{
+background-color: #111;
+} */
+}
+.yo{
+    width: 50px;
+    
+}
+.btn
+{
+    padding: 4px 12px;
+    border: 2px solid black;
+    color: white;
+    background-color: blue;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+
+.navbar
+{
+    display: flex;
+    height: 67px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.topleft{
+    width: 50%;
+}
+.topright{
+    width: 50%;
+}
+.section1{
+    height: 50vh;
+}
+
+.my-1
+{
+    margin-top: 13px;
+    margin-bottom: 13 px;
+    width: 50%;
+}
+
+.text-blue{
+    color: rgb(13, 13, 187);
+}
+
+.gyming{
+    width: 100px;
+}
+.section2
+{
+    padding: 73px;
+}
+.my-2
+{
+    margin-top: 13px;
+    margin-bottom: 13 px;
+
+}
+.box{
+    padding: 8px 0px;
+    margin:12px 22px;
+    min-width: 15vw;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 8px;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.highlighted
+{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.plantable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 table
+{
+    width: 100%;
+    margin: 40px 0;
+    border-collapse: collapse;
+}
+.section3 table th
+{
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+}
+.section3 table td
+{
+    border-bottom: 2px solid black;
+    
+}
+.section3 table tr
+{
+    border-bottom: 2px solid black;
+    
+}
+.section3
+{
+    padding: 73px;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+}
